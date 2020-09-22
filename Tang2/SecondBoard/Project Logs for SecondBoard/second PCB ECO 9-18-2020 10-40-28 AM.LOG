@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=VCC_O1 Pin=C39-1
+Removed Pin From Net: NetName=VCC_O1 Pin=C39-2
+Removed Pin From Net: NetName=VCC_O1 Pin=C39-3
+Removed Pin From Net: NetName=VCC_O1 Pin=C39-4
+Removed Pin From Net: NetName=VCC_O5 Pin=C39-5
+Removed Pin From Net: NetName=VCC_O4 Pin=C39-6
+Removed Pin From Net: NetName=VCC_O3 Pin=C39-7
+Removed Pin From Net: NetName=VCC_O2 Pin=C39-8
+Removed Pin From Net: NetName=GND_O1 Pin=C42-1
+Removed Pin From Net: NetName=GND_O1 Pin=C42-2
+Removed Pin From Net: NetName=GND_O1 Pin=C42-3
+Removed Pin From Net: NetName=GND_O1 Pin=C42-4
+Removed Pin From Net: NetName=GND_O5 Pin=C42-5
+Removed Pin From Net: NetName=GND_O4 Pin=C42-6
+Removed Pin From Net: NetName=GND_O3 Pin=C42-7
+Removed Pin From Net: NetName=GND_O2 Pin=C42-8
+Added Pin To Net: NetName=VCC_O2 Pin=C39-1
+Added Pin To Net: NetName=VCC_O3 Pin=C39-2
+Added Pin To Net: NetName=VCC_O4 Pin=C39-3
+Added Pin To Net: NetName=VCC_O5 Pin=C39-4
+Added Pin To Net: NetName=VCC_O1 Pin=C39-5
+Added Pin To Net: NetName=VCC_O1 Pin=C39-6
+Added Pin To Net: NetName=VCC_O1 Pin=C39-7
+Added Pin To Net: NetName=VCC_O1 Pin=C39-8
+Added Pin To Net: NetName=GND_O2 Pin=C42-1
+Added Pin To Net: NetName=GND_O3 Pin=C42-2
+Added Pin To Net: NetName=GND_O4 Pin=C42-3
+Added Pin To Net: NetName=GND_O5 Pin=C42-4
+Added Pin To Net: NetName=GND_O1 Pin=C42-5
+Added Pin To Net: NetName=GND_O1 Pin=C42-6
+Added Pin To Net: NetName=GND_O1 Pin=C42-7
+Added Pin To Net: NetName=GND_O1 Pin=C42-8
+Added Member To Class: ClassName=OUTPUT Member=Component J2 A32121-ND
+Added Member To Class: ClassName=Thermitor Member=Component J2 A32121-ND

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetC46_2 Pin=J1-11
+Removed Pin From Net: NetName=NetC47_1 Pin=J2-17
+Added Member To Class: ClassName=Thermitor Member=Component C19 100nF

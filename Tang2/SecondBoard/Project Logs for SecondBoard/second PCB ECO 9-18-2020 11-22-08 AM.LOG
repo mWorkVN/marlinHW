@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND_O2 Pin=C42-1
+Removed Pin From Net: NetName=GND_O3 Pin=C42-2
+Removed Pin From Net: NetName=GND_O4 Pin=C42-3
+Removed Pin From Net: NetName=GND_O5 Pin=C42-4
+Added Pin To Net: NetName=GND_O5 Pin=C42-1
+Added Pin To Net: NetName=GND_O4 Pin=C42-2
+Added Pin To Net: NetName=GND_O3 Pin=C42-3
+Added Pin To Net: NetName=GND_O2 Pin=C42-4
+Added Member To Class: ClassName=OUTPUT Member=Component R45 1K

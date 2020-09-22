@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Main.SchDoc
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=INPUT|SchDesignator=INPUT|FileName=inOpto.SchDoc|SymbolType=Normal|RawFileName=inOpto.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=OUTPUT|SchDesignator=OUTPUT|FileName=OUT.SchDoc|SymbolType=Normal|RawFileName=OUT.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Thermitor|SchDesignator=Thermitor|FileName=Thermit.SchDoc|SymbolType=Normal|RawFileName=Thermit.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

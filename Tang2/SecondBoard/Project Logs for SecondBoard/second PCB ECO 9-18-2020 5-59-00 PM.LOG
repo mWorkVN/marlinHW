@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=mWorkLogo? NewDesignator=mWorkLogo1
+Added Component: Designator=LED12(LED-0805-Red)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R51(RES-SMD-0603_BIG)
+Added Pin To Net: NetName=+5 Pin=HD1-4
+Added Pin To Net: NetName=GND Pin=LED12-2
+Added Pin To Net: NetName=+5 Pin=R51-2
+Added Pin To Net: NetName=NetLED12_1 Pin=LED12-1
+Added Pin To Net: NetName=NetLED12_1 Pin=R51-1
+Added Net: Name=NetLED12_1
+Added Member To Class: ClassName=Main Member=Component LED12 LED
+Added Member To Class: ClassName=Main Member=Component R51 120R

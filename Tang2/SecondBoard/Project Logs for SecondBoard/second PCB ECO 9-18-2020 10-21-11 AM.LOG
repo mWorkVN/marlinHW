@@ -1,0 +1,526 @@
+Removed Member From Class: ClassName=INPUT Member=C?
+Removed Member From Class: ClassName=Main Member=C?
+Removed Member From Class: ClassName=OUTPUT Member=C?
+Removed Member From Class: ClassName=OUTPUT Member=LED?
+Removed Member From Class: ClassName=OUTPUT Member=R?
+Removed Member From Class: ClassName=INPUT Member=U?
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=C? NewDesignator=C25
+Change Component Designator: OldDesignator=C? NewDesignator=C26
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C31
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Change Component Designator: OldDesignator=C? NewDesignator=C33
+Change Component Designator: OldDesignator=C? NewDesignator=C34
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Change Component Designator: OldDesignator=C? NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C37
+Change Component Designator: OldDesignator=C? NewDesignator=C38
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Change Component Designator: OldDesignator=C? NewDesignator=C40
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=C? NewDesignator=C42
+Change Component Designator: OldDesignator=C? NewDesignator=C43
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=FB? NewDesignator=FB1
+Change Component Designator: OldDesignator=FB? NewDesignator=FB2
+Change Component Designator: OldDesignator=FB? NewDesignator=FB3
+Change Component Designator: OldDesignator=FB? NewDesignator=FB4
+Change Component Designator: OldDesignator=FB? NewDesignator=FB5
+Change Component Designator: OldDesignator=FB? NewDesignator=FB6
+Change Component Designator: OldDesignator=FB? NewDesignator=FB7
+Change Component Designator: OldDesignator=FB? NewDesignator=FB8
+Change Component Designator: OldDesignator=HD? NewDesignator=HD1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Change Component Designator: OldDesignator=LED? NewDesignator=LED3
+Change Component Designator: OldDesignator=LED? NewDesignator=LED4
+Change Component Designator: OldDesignator=LED? NewDesignator=LED5
+Change Component Designator: OldDesignator=LED? NewDesignator=LED6
+Change Component Designator: OldDesignator=LED? NewDesignator=LED7
+Change Component Designator: OldDesignator=LED? NewDesignator=LED8
+Change Component Designator: OldDesignator=LED? NewDesignator=LED9
+Change Component Designator: OldDesignator=LED? NewDesignator=LED10
+Change Component Designator: OldDesignator=LED? NewDesignator=LED11
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=Q? NewDesignator=Q5
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=R? NewDesignator=R36
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Component Designator: OldDesignator=R? NewDesignator=R42
+Change Component Designator: OldDesignator=R? NewDesignator=R43
+Change Component Designator: OldDesignator=R? NewDesignator=R44
+Change Component Designator: OldDesignator=R? NewDesignator=R45
+Change Component Designator: OldDesignator=R? NewDesignator=R46
+Change Component Designator: OldDesignator=R? NewDesignator=R47
+Change Component Designator: OldDesignator=R? NewDesignator=R48
+Change Component Designator: OldDesignator=R? NewDesignator=R49
+Change Component Designator: OldDesignator=R? NewDesignator=R50
+Change Component Designator: OldDesignator=Ther? NewDesignator=Ther1
+Change Component Designator: OldDesignator=Ther? NewDesignator=Ther2
+Change Component Designator: OldDesignator=Ther? NewDesignator=Ther3
+Change Component Designator: OldDesignator=Ther? NewDesignator=Ther4
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Change Component Designator: OldDesignator=U? NewDesignator=U9
+Change Component Designator: OldDesignator=U? NewDesignator=U10
+Change Component Designator: OldDesignator=U? NewDesignator=U11
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC24_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetFB?_1 New Net Name=NetFB7_1
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED11_1
+Change Net Name : Old Net Name=NetLED?_2 New Net Name=NetLED5_2
+Change Net Name : Old Net Name=NetQ?_3 New Net Name=NetQ3_3
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR41_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR6_2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C21-2
+Added Pin To Net: NetName=NetC1_1 Pin=R2-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C23-2
+Added Pin To Net: NetName=NetC2_1 Pin=R7-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C25-2
+Added Pin To Net: NetName=NetC3_1 Pin=R12-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=C27-2
+Added Pin To Net: NetName=NetC4_1 Pin=R17-1
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=C29-2
+Added Pin To Net: NetName=NetC5_1 Pin=R22-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=C31-2
+Added Pin To Net: NetName=NetC6_1 Pin=R27-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=R32-1
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=R36-1
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=R40-1
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=R44-1
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=R48-1
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=FB2-2
+Added Pin To Net: NetName=NetC12_1 Pin=Ther1-3
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=FB4-2
+Added Pin To Net: NetName=NetC13_1 Pin=Ther2-3
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=FB3-2
+Added Pin To Net: NetName=NetC13_2 Pin=Ther2-2
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=FB6-2
+Added Pin To Net: NetName=NetC14_1 Pin=Ther3-3
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=FB5-2
+Added Pin To Net: NetName=NetC14_2 Pin=Ther3-2
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=FB8-2
+Added Pin To Net: NetName=NetC15_1 Pin=Ther4-3
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=FB7-2
+Added Pin To Net: NetName=NetC15_2 Pin=Ther4-2
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=R4-2
+Added Pin To Net: NetName=NetC20_1 Pin=R5-2
+Added Pin To Net: NetName=NetC20_1 Pin=U1-2
+Added Net: Name=NetC20_1
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=LED1-1
+Added Pin To Net: NetName=NetC20_2 Pin=R3-2
+Added Pin To Net: NetName=NetC20_2 Pin=R4-1
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=R9-2
+Added Pin To Net: NetName=NetC22_1 Pin=R10-2
+Added Pin To Net: NetName=NetC22_1 Pin=U2-2
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=LED2-1
+Added Pin To Net: NetName=NetC22_2 Pin=R8-2
+Added Pin To Net: NetName=NetC22_2 Pin=R9-1
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetC24_2 Pin=LED3-1
+Added Pin To Net: NetName=NetC24_2 Pin=R13-2
+Added Pin To Net: NetName=NetC24_2 Pin=R14-1
+Added Net: Name=NetC24_2
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=NetC26_1 Pin=R19-2
+Added Pin To Net: NetName=NetC26_1 Pin=R20-2
+Added Pin To Net: NetName=NetC26_1 Pin=U4-2
+Added Net: Name=NetC26_1
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=LED4-1
+Added Pin To Net: NetName=NetC26_2 Pin=R18-2
+Added Pin To Net: NetName=NetC26_2 Pin=R19-1
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_1 Pin=R24-2
+Added Pin To Net: NetName=NetC28_1 Pin=R25-2
+Added Pin To Net: NetName=NetC28_1 Pin=U5-2
+Added Net: Name=NetC28_1
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=LED5-1
+Added Pin To Net: NetName=NetC28_2 Pin=R23-2
+Added Pin To Net: NetName=NetC28_2 Pin=R24-1
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetC30_1 Pin=C30-1
+Added Pin To Net: NetName=NetC30_1 Pin=R29-2
+Added Pin To Net: NetName=NetC30_1 Pin=R30-2
+Added Pin To Net: NetName=NetC30_1 Pin=U6-2
+Added Net: Name=NetC30_1
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=LED6-1
+Added Pin To Net: NetName=NetC30_2 Pin=R28-2
+Added Pin To Net: NetName=NetC30_2 Pin=R29-1
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=R32-2
+Added Pin To Net: NetName=NetC33_2 Pin=U7-1
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=NetC35_2 Pin=R36-2
+Added Pin To Net: NetName=NetC35_2 Pin=U8-1
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetC37_2 Pin=C37-2
+Added Pin To Net: NetName=NetC37_2 Pin=R40-2
+Added Pin To Net: NetName=NetC37_2 Pin=U9-1
+Added Net: Name=NetC37_2
+Added Pin To Net: NetName=NetC40_2 Pin=C40-2
+Added Pin To Net: NetName=NetC40_2 Pin=R44-2
+Added Pin To Net: NetName=NetC40_2 Pin=U10-1
+Added Net: Name=NetC40_2
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC43_2 Pin=R48-2
+Added Pin To Net: NetName=NetC43_2 Pin=U11-1
+Added Net: Name=NetC43_2
+Added Pin To Net: NetName=NetFB1_1 Pin=FB1-1
+Added Pin To Net: NetName=NetFB1_1 Pin=J2-8
+Added Net: Name=NetFB1_1
+Added Pin To Net: NetName=NetFB2_1 Pin=FB2-1
+Added Pin To Net: NetName=NetFB2_1 Pin=J2-15
+Added Net: Name=NetFB2_1
+Added Pin To Net: NetName=NetFB3_1 Pin=FB3-1
+Added Pin To Net: NetName=NetFB3_1 Pin=J2-6
+Added Net: Name=NetFB3_1
+Added Pin To Net: NetName=NetFB4_1 Pin=FB4-1
+Added Pin To Net: NetName=NetFB4_1 Pin=J2-13
+Added Net: Name=NetFB4_1
+Added Pin To Net: NetName=NetFB5_1 Pin=FB5-1
+Added Pin To Net: NetName=NetFB5_1 Pin=J2-4
+Added Net: Name=NetFB5_1
+Added Pin To Net: NetName=NetFB6_1 Pin=FB6-1
+Added Pin To Net: NetName=NetFB6_1 Pin=J2-11
+Added Net: Name=NetFB6_1
+Added Pin To Net: NetName=NetFB8_1 Pin=FB8-1
+Added Pin To Net: NetName=NetFB8_1 Pin=J2-9
+Added Net: Name=NetFB8_1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=U1-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=U2-1
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=U3-1
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=U4-1
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=U6-1
+Added Net: Name=NetLED6_2
+Added Pin To Net: NetName=NetLED7_1 Pin=LED7-1
+Added Pin To Net: NetName=NetLED7_1 Pin=R31-1
+Added Net: Name=NetLED7_1
+Added Pin To Net: NetName=NetLED8_1 Pin=LED8-1
+Added Pin To Net: NetName=NetLED8_1 Pin=R35-1
+Added Net: Name=NetLED8_1
+Added Pin To Net: NetName=NetLED9_1 Pin=LED9-1
+Added Pin To Net: NetName=NetLED9_1 Pin=R39-1
+Added Net: Name=NetLED9_1
+Added Pin To Net: NetName=NetLED10_1 Pin=LED10-1
+Added Pin To Net: NetName=NetLED10_1 Pin=R43-1
+Added Net: Name=NetLED10_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R34-2
+Added Pin To Net: NetName=NetQ1_3 Pin=U7-3
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R38-2
+Added Pin To Net: NetName=NetQ2_3 Pin=U8-3
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R46-2
+Added Pin To Net: NetName=NetQ4_3 Pin=U10-3
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R50-2
+Added Pin To Net: NetName=NetQ5_3 Pin=U11-3
+Added Net: Name=NetQ5_3
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-4
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R8-1
+Added Pin To Net: NetName=NetR3_1 Pin=R13-1
+Added Pin To Net: NetName=NetR3_1 Pin=R18-1
+Added Pin To Net: NetName=NetR3_1 Pin=R23-1
+Added Pin To Net: NetName=NetR3_1 Pin=R28-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=R12-2
+Added Pin To Net: NetName=NetR11_2 Pin=U3-4
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=R17-2
+Added Pin To Net: NetName=NetR16_2 Pin=U4-4
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=R22-2
+Added Pin To Net: NetName=NetR21_2 Pin=U5-4
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=R27-2
+Added Pin To Net: NetName=NetR26_2 Pin=U6-4
+Added Net: Name=NetR26_2
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Pin To Net: NetName=NetR33_1 Pin=U7-4
+Added Net: Name=NetR33_1
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=U8-4
+Added Net: Name=NetR37_1
+Added Pin To Net: NetName=NetR45_1 Pin=R45-1
+Added Pin To Net: NetName=NetR45_1 Pin=U10-4
+Added Net: Name=NetR45_1
+Added Pin To Net: NetName=NetR49_1 Pin=R49-1
+Added Pin To Net: NetName=NetR49_1 Pin=U11-4
+Added Net: Name=NetR49_1
+Added Member To Class: ClassName=Main Member=Component C1 JP2
+Added Member To Class: ClassName=Main Member=Component C2 JP2
+Added Member To Class: ClassName=Main Member=Component C3 JP2
+Added Member To Class: ClassName=Main Member=Component C4 JP2
+Added Member To Class: ClassName=Main Member=Component C5 JP2
+Added Member To Class: ClassName=Main Member=Component C6 JP2
+Added Member To Class: ClassName=Main Member=Component C7 JP2
+Added Member To Class: ClassName=Main Member=Component C8 JP2
+Added Member To Class: ClassName=Main Member=Component C9 JP2
+Added Member To Class: ClassName=Main Member=Component C10 JP2
+Added Member To Class: ClassName=Main Member=Component C11 JP2
+Added Member To Class: ClassName=Thermitor Member=Component C12 10nF
+Added Member To Class: ClassName=Thermitor Member=Component C13 10nF
+Added Member To Class: ClassName=Thermitor Member=Component C14 10nF
+Added Member To Class: ClassName=Thermitor Member=Component C15 10nF
+Added Member To Class: ClassName=Thermitor Member=Component C16 100nF
+Added Member To Class: ClassName=Thermitor Member=Component C17 100nF
+Added Member To Class: ClassName=Thermitor Member=Component C19 100nF
+Added Member To Class: ClassName=INPUT Member=Component C20 CN
+Added Member To Class: ClassName=INPUT Member=Component C21 CN
+Added Member To Class: ClassName=INPUT Member=Component C22 CN
+Added Member To Class: ClassName=INPUT Member=Component C23 CN
+Added Member To Class: ClassName=INPUT Member=Component C24 CN
+Added Member To Class: ClassName=INPUT Member=Component C25 CN
+Added Member To Class: ClassName=INPUT Member=Component C26 CN
+Added Member To Class: ClassName=INPUT Member=Component C27 CN
+Added Member To Class: ClassName=INPUT Member=Component C28 CN
+Added Member To Class: ClassName=INPUT Member=Component C29 CN
+Added Member To Class: ClassName=INPUT Member=Component C30 CN
+Added Member To Class: ClassName=INPUT Member=Component C31 CN
+Added Member To Class: ClassName=OUTPUT Member=Component C32 CN
+Added Member To Class: ClassName=OUTPUT Member=Component C33 CN
+Added Member To Class: ClassName=OUTPUT Member=Component C34 CN
+Added Member To Class: ClassName=OUTPUT Member=Component C35 CN
+Added Member To Class: ClassName=OUTPUT Member=Component C36 CN
+Added Member To Class: ClassName=OUTPUT Member=Component C37 CN
+Added Member To Class: ClassName=OUTPUT Member=Component C38 CN
+Added Member To Class: ClassName=OUTPUT Member=Component C39 JP4x2
+Added Member To Class: ClassName=OUTPUT Member=Component C40 CN
+Added Member To Class: ClassName=OUTPUT Member=Component C41 CN
+Added Member To Class: ClassName=OUTPUT Member=Component C42 JP4x2
+Added Member To Class: ClassName=OUTPUT Member=Component C43 CN
+Added Member To Class: ClassName=OUTPUT Member=Component D1 Diode
+Added Member To Class: ClassName=OUTPUT Member=Component D2 Diode
+Added Member To Class: ClassName=OUTPUT Member=Component D4 Diode
+Added Member To Class: ClassName=OUTPUT Member=Component D5 Diode
+Added Member To Class: ClassName=Thermitor Member=Component FB1 FB
+Added Member To Class: ClassName=Thermitor Member=Component FB2 FB
+Added Member To Class: ClassName=Thermitor Member=Component FB3 FB
+Added Member To Class: ClassName=Thermitor Member=Component FB4 FB
+Added Member To Class: ClassName=Thermitor Member=Component FB5 FB
+Added Member To Class: ClassName=Thermitor Member=Component FB7 FB
+Added Member To Class: ClassName=Thermitor Member=Component FB8 FB
+Added Member To Class: ClassName=INPUT Member=Component LED1 MinZ
+Added Member To Class: ClassName=INPUT Member=Component LED2 MinZ
+Added Member To Class: ClassName=INPUT Member=Component LED4 MinZ
+Added Member To Class: ClassName=INPUT Member=Component LED5 MinZ
+Added Member To Class: ClassName=INPUT Member=Component LED6 MinZ
+Added Member To Class: ClassName=OUTPUT Member=Component LED7 LED
+Added Member To Class: ClassName=OUTPUT Member=Component LED8 LED
+Added Member To Class: ClassName=OUTPUT Member=Component LED9 LED
+Added Member To Class: ClassName=OUTPUT Member=Component LED10 LED
+Added Member To Class: ClassName=OUTPUT Member=Component LED11 LED
+Added Member To Class: ClassName=OUTPUT Member=Component Q1 2SC1815
+Added Member To Class: ClassName=OUTPUT Member=Component Q3 2SC1815
+Added Member To Class: ClassName=OUTPUT Member=Component Q4 2SC1815
+Added Member To Class: ClassName=OUTPUT Member=Component Q5 2SC1815
+Added Member To Class: ClassName=INPUT Member=Component R1 10K
+Added Member To Class: ClassName=INPUT Member=Component R2 120R
+Added Member To Class: ClassName=INPUT Member=Component R3 R
+Added Member To Class: ClassName=INPUT Member=Component R4 R
+Added Member To Class: ClassName=INPUT Member=Component R5 1K
+Added Member To Class: ClassName=INPUT Member=Component R6 10K
+Added Member To Class: ClassName=INPUT Member=Component R7 120R
+Added Member To Class: ClassName=INPUT Member=Component R8 R
+Added Member To Class: ClassName=INPUT Member=Component R9 R
+Added Member To Class: ClassName=INPUT Member=Component R10 1K
+Added Member To Class: ClassName=INPUT Member=Component R11 10K
+Added Member To Class: ClassName=INPUT Member=Component R12 120R
+Added Member To Class: ClassName=INPUT Member=Component R13 R
+Added Member To Class: ClassName=INPUT Member=Component R14 R
+Added Member To Class: ClassName=INPUT Member=Component R15 1K
+Added Member To Class: ClassName=INPUT Member=Component R16 10K
+Added Member To Class: ClassName=INPUT Member=Component R17 120R
+Added Member To Class: ClassName=INPUT Member=Component R18 R
+Added Member To Class: ClassName=INPUT Member=Component R19 R
+Added Member To Class: ClassName=INPUT Member=Component R20 1K
+Added Member To Class: ClassName=INPUT Member=Component R21 10K
+Added Member To Class: ClassName=INPUT Member=Component R22 120R
+Added Member To Class: ClassName=INPUT Member=Component R23 R
+Added Member To Class: ClassName=INPUT Member=Component R24 R
+Added Member To Class: ClassName=INPUT Member=Component R25 1K
+Added Member To Class: ClassName=INPUT Member=Component R26 10K
+Added Member To Class: ClassName=INPUT Member=Component R28 R
+Added Member To Class: ClassName=INPUT Member=Component R29 R
+Added Member To Class: ClassName=INPUT Member=Component R30 1K
+Added Member To Class: ClassName=OUTPUT Member=Component R31 120R
+Added Member To Class: ClassName=OUTPUT Member=Component R32 120R
+Added Member To Class: ClassName=OUTPUT Member=Component R33 1K
+Added Member To Class: ClassName=OUTPUT Member=Component R34 10k
+Added Member To Class: ClassName=OUTPUT Member=Component R35 120R
+Added Member To Class: ClassName=OUTPUT Member=Component R36 120R
+Added Member To Class: ClassName=OUTPUT Member=Component R37 1K
+Added Member To Class: ClassName=OUTPUT Member=Component R38 10k
+Added Member To Class: ClassName=OUTPUT Member=Component R39 120R
+Added Member To Class: ClassName=OUTPUT Member=Component R40 120R
+Added Member To Class: ClassName=OUTPUT Member=Component R41 1K
+Added Member To Class: ClassName=OUTPUT Member=Component R42 10k
+Added Member To Class: ClassName=OUTPUT Member=Component R43 120R
+Added Member To Class: ClassName=OUTPUT Member=Component R44 120R
+Added Member To Class: ClassName=OUTPUT Member=Component R45 1K
+Added Member To Class: ClassName=OUTPUT Member=Component R46 10k
+Added Member To Class: ClassName=OUTPUT Member=Component R47 120R
+Added Member To Class: ClassName=OUTPUT Member=Component R48 120R
+Added Member To Class: ClassName=OUTPUT Member=Component R49 1K
+Added Member To Class: ClassName=OUTPUT Member=Component R50 10k
+Added Member To Class: ClassName=Thermitor Member=Component Ther2 MAX31855
+Added Member To Class: ClassName=Thermitor Member=Component Ther3 MAX31855
+Added Member To Class: ClassName=Thermitor Member=Component Ther4 MAX31855
+Added Member To Class: ClassName=INPUT Member=Component U1 PC817
+Added Member To Class: ClassName=INPUT Member=Component U2 PC817
+Added Member To Class: ClassName=INPUT Member=Component U3 PC817
+Added Member To Class: ClassName=INPUT Member=Component U4 PC817
+Added Member To Class: ClassName=INPUT Member=Component U5 PC817
+Added Member To Class: ClassName=INPUT Member=Component U6 PC817
+Added Member To Class: ClassName=OUTPUT Member=Component U8 PC817
+Added Member To Class: ClassName=OUTPUT Member=Component U9 PC817
+Added Member To Class: ClassName=OUTPUT Member=Component U10 PC817
+Added Member To Class: ClassName=OUTPUT Member=Component U11 PC817
